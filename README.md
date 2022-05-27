@@ -9,7 +9,10 @@
 [![Forks](https://img.shields.io/github/forks/GabrielLuizSF/calculator?color=%23191F2B&style=flat-square)](https://github.com/GabrielLuizSF/calculator/network/members)
 
 
-# Download version 1.0 LTS
+# Download Beta version 
+<a href="https://drive.google.com/uc?export=download&id=1lTl_tTHY_DtOBGJtrxgWYYCIQ0OjiU_D"  target="_blank" rel="noopener noreferer" >Download Windows</a>
+
+# How to use
 
 
 
