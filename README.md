@@ -13,6 +13,6 @@
 <a href="https://drive.google.com/uc?export=download&id=1lTl_tTHY_DtOBGJtrxgWYYCIQ0OjiU_D"  target="_blank" rel="noopener noreferer" >Download Windows</a>
 
 # How to use
-
+Extract Zip File  => Open folder Calculator => Run FiLe calculator.exe 
 
 
